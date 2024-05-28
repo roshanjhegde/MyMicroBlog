@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
-				"id": "http://roshanhegde.micro.blog/2024/05/20/being-authentic-to.html",
+				"id": "http://roshanhegde.micro.blog/2024/05/23/a-fit-body.html",
 				
-				"content_html": "<p>Being authentic to oneself means to confront oneself.</p>\n<p>~AB</p>\n",
-				"content_text": "Being authentic to oneself means to confront oneself.\r\n\r\n~AB\n",
-				"date_published": "2024-05-20T08:36:09+05:30",
-				"url": "https://roshanhegde.com/2024/05/20/being-authentic-to.html",
-				"tags": ["AB "]
+				"content_html": "<blockquote>\n<p>A fit body, a calm mind, a house full of love. These things cannot be bought, they must be earned.</p>\n</blockquote>\n<p>~ Naval Ravikant</p>\n",
+				"content_text": "> A fit body, a calm mind, a house full of love. These things cannot be bought, they must be earned.\r\n\r\n~ Naval Ravikant\n",
+				"date_published": "2024-05-23T10:31:30+05:30",
+				"url": "https://roshanhegde.com/2024/05/23/a-fit-body.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://roshanhegde.micro.blog/2024/05/22/heres-another-great.html",
+				
+				"content_html": "<p><a href=\"https://teachyourselfcrypto.com/\">Here&rsquo;s another great curated resource for learning about crypto from the very basics</a></p>\n",
+				"content_text": "[Here's another great curated resource for learning about crypto from the very basics](https://teachyourselfcrypto.com/)\n",
+				"date_published": "2024-05-22T00:06:59+05:30",
+				"url": "https://roshanhegde.com/2024/05/22/heres-another-great.html",
+				"tags": ["Links "]
 			},
 			{
 				"id": "http://roshanhegde.micro.blog/2024/05/15/i-firmly-believe.html",
@@ -230,7 +239,7 @@
 				"id": "http://roshanhegde.micro.blog/2023/07/03/truth.html",
 				
 				"content_html": "<p>Truth!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Truth! \n\n<img src=\"uploads/2023/img-20230703-wa0000.jpg\" width=\"491\" height=\"600\" alt=\"\">\n",
+				"content_text": "Truth! \n\n<img src=\"https://cdn.uploads.micro.blog/68359/2023/img-20230703-wa0000.jpg\" width=\"491\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-03T07:24:55+05:30",
 				"url": "https://roshanhegde.com/2023/07/03/truth.html"
 			},
@@ -342,7 +351,7 @@
 				"id": "http://roshanhegde.micro.blog/2023/06/20/a-question-worth.html",
 				
 				"content_html": "<p>A question worth pondering 🤔</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A question worth pondering 🤔\n\n<img src=\"uploads/2023/garrick-could-1024x658.png\" width=\"600\" height=\"385\" alt=\"\">\n",
+				"content_text": "A question worth pondering 🤔\n\n<img src=\"https://cdn.uploads.micro.blog/68359/2023/garrick-could-1024x658.png\" width=\"600\" height=\"385\" alt=\"\">\n",
 				"date_published": "2023-06-20T06:18:31+05:30",
 				"url": "https://roshanhegde.com/2023/06/20/a-question-worth.html"
 			},
@@ -398,7 +407,7 @@
 				"id": "http://roshanhegde.micro.blog/2023/05/27/003243.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/afece068cb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/68359/2023/afece068cb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-27T00:32:43+05:30",
 				"url": "https://roshanhegde.com/2023/05/27/003243.html"
 			},
@@ -449,7 +458,7 @@
 				"id": "http://roshanhegde.micro.blog/2023/05/13/221255.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/940990d85b.jpg\" width=\"517\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/68359/2023/940990d85b.jpg\" width=\"517\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-13T22:12:55+05:30",
 				"url": "https://roshanhegde.com/2023/05/13/221255.html"
 			},
@@ -673,7 +682,7 @@
 				"id": "http://roshanhegde.micro.blog/2022/10/23/what-a-beautiful.html",
 				
 				"content_html": "<p>What a beautiful line by Ruskin Bond</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What a beautiful line by Ruskin Bond \n\n<img src=\"uploads/2022/6eb91f5c9b.jpg\" width=\"600\" height=\"418\" alt=\"\">\n",
+				"content_text": "What a beautiful line by Ruskin Bond \n\n<img src=\"https://roshanhegde.micro.blog/uploads/2022/6eb91f5c9b.jpg\" width=\"600\" height=\"418\" alt=\"\">\n",
 				"date_published": "2022-10-23T20:07:58+05:30",
 				"url": "https://roshanhegde.com/2022/10/23/what-a-beautiful.html",
 				"tags": ["Reading List"]
@@ -869,7 +878,7 @@
 				"id": "http://roshanhegde.micro.blog/2022/05/08/if-you-stop.html",
 				
 				"content_html": "<p>If you stop learning, you stop living.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you stop learning, you stop living.\n\n<img src=\"uploads/2022/11881e64b6.jpg\" width=\"600\" height=\"452\" alt=\"\" />\n",
+				"content_text": "If you stop learning, you stop living.\n\n<img src=\"https://roshanhegde.micro.blog/uploads/2022/11881e64b6.jpg\" width=\"600\" height=\"452\" alt=\"\" />\n",
 				"date_published": "2022-05-08T09:52:02+05:30",
 				"url": "https://roshanhegde.com/2022/05/08/if-you-stop.html"
 			},
